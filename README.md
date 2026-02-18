@@ -1,4 +1,4 @@
-# Railway Delay Duration Prediction
+# Railway Delay Prediction
 
 ### Project Objective
 This project develops a regression-based machine learning model to predict railway delay durations using structured operational data.
